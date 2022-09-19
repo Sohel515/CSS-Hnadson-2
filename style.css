@@ -102,11 +102,12 @@ body{
     background-color: white;
     border: 5px dashed red;
     display: inline-block;
-    width: 250px;
+    width: 400px;
     height: auto;
     position: relative;
     bottom: 200px;
     margin-left: 250px;
+    text-align: center;
 }
 .containerf .title{
     color: red;
@@ -128,6 +129,8 @@ body{
     width: 200px;
     margin: 10px;
     text-align: center;
+    padding-left: 18%;
+  
     
 }
 .menu{
